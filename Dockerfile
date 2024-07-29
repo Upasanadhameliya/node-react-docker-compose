@@ -1,5 +1,5 @@
 
-# Setup and build the client
+# Setup and build the client - using for graphql
 
 FROM node:9.4.0-alpine as client
 
